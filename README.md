@@ -1,1 +1,7 @@
-# maxscrabble
+public class MaxScrabble{
+
+
+
+
+
+}
